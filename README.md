@@ -1,8 +1,7 @@
 # paintings
-The contents of https://nikospantazis.com
+The contents of https://aleksam07.github.io/art_collection_website/
 
 A simple art porfolio website,
-and a static art e-shop that uses payment liks.
 
 Makes use of:
 https://html5up.net/read-only tamplate and 
