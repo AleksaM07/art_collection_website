@@ -943,3 +943,17 @@ body {
   padding: 0;
 }
 
+.topright.button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  padding: 0.5rem 1rem;
+  background: #333;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.topright.button:hover {
+  background: #555;
+}
